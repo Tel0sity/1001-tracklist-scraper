@@ -6,7 +6,6 @@ Python script using [BeautifulSoup](https://www.crummy.com/software/BeautifulSou
 
 ## Future Updates
 * Handle unidentified ("ID") tracks.
-* Display artists/tracks that contain non-unicode characters.
 
 ## License
 [MIT License](https://opensource.org/licenses/MIT)
